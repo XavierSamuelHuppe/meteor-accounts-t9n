@@ -1,6 +1,6 @@
 Package.describe({
     summary: "Almost i18n, with standard translations for basic meteor packages.",
-    version: "1.3.4",
+    version: "1.3.5",
     name: "xavierhuppe:xav-accounts-t9n",
     git: "https://github.com/XavierSamuelHuppe/xav-accounts-t9n.git",
 });
